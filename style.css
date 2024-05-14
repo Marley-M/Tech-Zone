@@ -1,0 +1,61 @@
+html {
+    background-color: rgb(229, 127, 255);
+}
+
+body {
+    width: 1024px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+header {
+    color: black;
+    text-align: center;
+}
+
+nav {
+    border: 5px double grey;
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    width: 120px;
+    background-color: rgba(44, 44, 44, 0.808);
+
+}
+
+    nav a {
+        padding-right: 10px;
+        color: wheat;
+    }
+
+main {
+    border: 10px ridge rgba(128, 128, 128, 0.397);
+    color: black;
+    font-size: 25px;
+    padding-left: 12px;
+    margin-bottom: 40px;
+    background-color: rgba(128, 128, 128, 0.397);
+}
+
+    main p {
+        padding-left: 35px;
+    }
+
+    .comment {
+        border-radius: 25px;
+        background: rgba(255, 255, 255, 0.568);
+        padding: 20px;
+        width: 380px;
+        height: 15px;
+    }
+
+.index {
+    width: 200px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 350px;
+    text-align: center;
+}
